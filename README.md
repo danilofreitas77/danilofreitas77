@@ -39,4 +39,14 @@
 
 ---
 
+---
+
+### 📈 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danilofreitas77&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilofreitas77&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+
 ⭐ Se você gosta do meu conteúdo, me acompanhe aqui no GitHub e no LinkedIn!
