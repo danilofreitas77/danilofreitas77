@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 - 💼 Transição ativa para área de cibersegurança
 - 👨‍💻 Estudando: TryHackMe, Google Cybersecurity, Bash e análise de logs
-- 📁 Repositório principal: [CyberLabs-Danilo]([[https://github.com/danilofreitas77/CyberLabs-Danilo]])
+- 📁 Repositório principal: [CyberLabs-Danilo](https://github.com/danilofreitas77/CyberLabs-Danilo)
 - ✍️ Compartilho aprendizados no [LinkedIn](www.linkedin.com/in/danilo-freitas-171b58260)
 - 🎯 Objetivo: Ser referência nacional e internacional em cibersegurança
 
