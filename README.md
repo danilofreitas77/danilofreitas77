@@ -1,4 +1,4 @@
-<h1 align="center">Danilo • Aspiring Cybersecurity Analyst 👨‍💻🔐</h1>
+<h1 align="center">Danilo • Cybersecurity Analyst 👨‍💻🔐</h1>
 
 <p align="center">
 🚀 Estudando cibersegurança com foco total em SOC, defesa, forense e automação.<br>
