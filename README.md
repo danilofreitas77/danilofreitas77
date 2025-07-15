@@ -10,9 +10,9 @@
 ### 🧠 Sobre mim
 - 💼 Transição ativa para área de cibersegurança
 - 👨‍💻 Estudando: TryHackMe, Google Cybersecurity, Bash e análise de logs
-- 📁 Repositório principal: [CyberLabs-Danilo](https://github.com/seu-user/CyberLabs-Danilo)
-- ✍️ Compartilho aprendizados no [LinkedIn](https://linkedin.com/in/seu-user)
-- 🎯 Sonho: Ser referência nacional e internacional em cibersegurança
+- 📁 Repositório principal: [CyberLabs-Danilo]([https://github.com/seu-user/CyberLabs-Danilo](https://github.com/danilofreitas77/CyberLabs-Danilo))
+- ✍️ Compartilho aprendizados no [LinkedIn](www.linkedin.com/in/danilo-freitas-171b58260)
+- 🎯 Objetivo: Ser referência nacional e internacional em cibersegurança
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 ### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-user)
-[![Email](https://img.shields.io/badge/E--mail-critical?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/danilo-freitas-171b58260)
+[![Email](https://img.shields.io/badge/E--mail-critical?style=flat&logo=gmail&logoColor=white)](mailto:danilocfreitass77@gmail.com)
 
 ---
 
