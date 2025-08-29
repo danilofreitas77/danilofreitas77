@@ -11,7 +11,7 @@
 - 💼 Engenheiro de Software em transição para projetos full stack
 - 👨‍💻 Experiência com Python, PHP, Django, JavaScript e React
 - ✍️ Compartilho aprendizados e demos no [LinkedIn](https://www.linkedin.com/in/danilo-freitas-171b58260)
-- 🎯 Objetivo: Ser referência em desenvolvimento web e soluções escaláveis
+- 🎯 Objetivo: Ser referência em desenvolvimento de software e soluções escaláveis
 
 ---
 
