@@ -54,7 +54,7 @@ This GitHub documents my growth as a developer.
 
 ### 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/danilo-freitas-171b58260)  
+[LinkedIn](www.linkedin.com/in/danilo-freitas-2a156b3b2)  
 Email: danilocfreitass77@gmail.com  
 
 ---
