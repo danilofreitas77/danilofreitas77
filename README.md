@@ -1,79 +1,56 @@
 # Danilo Freitas
 
-**Cloud • Infrastructure • AI Automation**
+Infraestrutura, cloud e segurança. Uso automação e programação pra resolver problema de operação.
 
-Building intelligent systems that automate operations, integrate cloud services and solve real business problems.
+Sou de Pernambuco, estou no 4º período de Análise e Desenvolvimento de Sistemas na Esuda e sou técnico em Desenvolvimento de Sistemas pelo SENAI-PE. Hoje estagio em Customer Success e infraestrutura num MSP que atende cerca de 77 empresas.
 
----
+No dia a dia cuido de Google Workspace, Microsoft 365, suporte N1, segurança de contas e e-mail, e das automações que tiram trabalho repetitivo do time.
 
-## About Me
+## Alguns trabalhos
 
-I'm an ADS student from Brazil focused on Cloud Computing, Infrastructure and AI-driven automation.
+**Investigação de golpe de boleto por e-mail**
+Um cliente achou que o e-mail de faturamento tinha sido invadido. Cruzando os logs de envio e de login do Google Workspace, mostrei que a conta dele estava limpa e que o e-mail falso tinha saído de uma caixa comprometida do lado do destinatário.
 
-I enjoy solving real operational problems through APIs, cloud services and intelligent workflows rather than building projects only for practice.
+**Auditoria de Google Workspace**
+Levantamento de usuários sem 2FA, compartilhamentos externos no Drive, contas inativas e licenças sem uso. Com uma integração que montei entre o Claude e o console de parceiro do Google, uma auditoria que levava dias caiu pra cerca de uma hora.
 
----
+**Relatório mensal de infraestrutura**
+Fluxo no n8n que roda todo dia 5, lê a base de clientes, escreve o e-mail de cada um com um agente de IA e anexa os relatórios do RMM e de chamados.
+`n8n` `Gemini` `Google Sheets` `Gmail`
 
-## Tech Stack
+**Bot de atendimento no WhatsApp**
+Atendimento a credores para uma administradora judicial. O usuário escolhe o tipo de processo, o estado e a empresa, e o bot consulta as planilhas no Drive. A IA só classifica a intenção e redige a resposta, o resto é fluxo fixo.
+`n8n` `Evolution API` `Redis` `Google Drive/Sheets` `Gemini`
 
-### Cloud & Infrastructure
-- Microsoft Azure
-- Google Cloud Platform
-- Google Workspace
-- Linux
+**Setup padronizado de máquinas**
+Instalação de software por perfil de cliente (contabilidade, advocacia, engenharia) via Tactical RMM.
 
-### Automation & Development
-- Python
-- Java
-- SQL
-- n8n
-- REST APIs
-- Git & GitHub
+**SENTINELA** (projeto da faculdade)
+Monitoramento de acessos a sistemas de prefeituras.
+`Kotlin` `Jetpack Compose` `Spring Boot`
 
-### Background
-- PHP
-- HTML & CSS
+**Ops Control Center** (em andamento)
+Painel web pra rodar scripts de infraestrutura e fluxos de automação num lugar só.
+`FastAPI` `Python` `n8n`
 
----
+## Ferramentas
 
-## Cisco Certifications
+- **Cloud e produtividade:** Google Workspace, Microsoft 365, Azure
+- **Operação:** Tactical RMM, GLPI, Acronis, MSP360
+- **Automação:** n8n, Python, APIs REST, Evolution API, Claude (MCP), Gemini
+- **Desenvolvimento:** Java/Spring Boot, Kotlin, SQL, Git
 
-- Linux Essentials
-- Python Essentials
-- Introduction to Cybersecurity
+## Formação
 
----
+- Análise e Desenvolvimento de Sistemas, Esuda (em andamento)
+- Técnico em Desenvolvimento de Sistemas, SENAI-PE (2022 a 2024)
+- Cursos da Cisco Networking Academy: Introdução à Cibersegurança, Python Essentials, Linux Essentials, Introdução à Ciência de Dados
 
-## Featured Projects
+## Estudando agora
 
-### Google Workspace Security Auditor
-Audits Drive activity logs to identify externally shared files and generate security reports.
+AZ-900, SC-900, Docker e agentes de IA.
 
-**Stack:** Python • Google APIs • Google Workspace
+## Contato
 
-### Infrastructure Report Automation
-Automates monthly operational reports with AI-generated insights.
-
-**Stack:** n8n • Gemini • Google Sheets • Gmail API
-
-### Ops Control Center *(In Progress)*
-A web dashboard to execute infrastructure scripts and automation workflows from a single interface.
-
-**Stack:** FastAPI • Python • n8n
-
----
-
-## Currently Learning
-
-- Azure (AZ-900)
-- Cloud Architecture
-- Docker
-- Networking
-- AI Agents & MCP
-
----
-
-## Contact
-
-- **LinkedIn:** linkedin.com/in/danilo-freitas-2a156b3b2
-- **Email:** danilocfreitass77@gmail.com
+- LinkedIn: [linkedin.com/in/danilo-freitas-2a156b3b2](https://www.linkedin.com/in/danilo-freitas-2a156b3b2)
+- E-mail: danilocfreitass77@gmail.com
