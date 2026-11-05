@@ -8,10 +8,10 @@ No dia a dia cuido de Google Workspace, Microsoft 365, suporte N1, segurança de
 
 ## Alguns trabalhos
 
-**Investigação de golpe de boleto por e-mail**
+**[Investigação de golpe de boleto por e-mail](https://github.com/danilofreitas77/caso-email-golpe-boleto)**
 Um cliente achou que o e-mail de faturamento tinha sido invadido. Cruzando os logs de envio e de login do Google Workspace, mostrei que a conta dele estava limpa e que o e-mail falso tinha saído de uma caixa comprometida do lado do destinatário.
 
-**Auditoria de Google Workspace**
+**[Auditoria de Google Workspace](https://github.com/danilofreitas77/auditoria-google-workspace)**
 Levantamento de usuários sem 2FA, compartilhamentos externos no Drive, contas inativas e licenças sem uso. Com uma integração que montei entre o Claude e o console de parceiro do Google, uma auditoria que levava dias caiu pra cerca de uma hora.
 
 **Relatório mensal de infraestrutura**
