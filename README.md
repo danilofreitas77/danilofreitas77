@@ -18,7 +18,7 @@ Levantamento de usuários sem 2FA, compartilhamentos externos no Drive, contas i
 Fluxo no n8n que roda todo dia 5, lê a base de clientes, escreve o e-mail de cada um com um agente de IA e anexa os relatórios do RMM e de chamados.
 `n8n` `Gemini` `Google Sheets` `Gmail`
 
-**Bot de atendimento no WhatsApp**
+**[Bot de atendimento no WhatsApp](https://github.com/danilofreitas77/bot-whatsapp-advocacia)**
 Atendimento a credores para uma administradora judicial. O usuário escolhe o tipo de processo, o estado e a empresa, e o bot consulta as planilhas no Drive. A IA só classifica a intenção e redige a resposta, o resto é fluxo fixo.
 `n8n` `Evolution API` `Redis` `Google Drive/Sheets` `Gemini`
 
